@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+id glSurface
+id processedImage
+id root
+id textureView
+id tv_version
+layout activity_main
+string app_name
