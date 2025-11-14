@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/bhavy/Downloads/flamapp_rnd_assignment_structure/app/.cxx/Debug/4y536z67/arm64-v8a",
+  "command": "C:\\Users\\bhavy\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/bhavy/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -std=gnu++17 -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c C:\\Users\\bhavy\\Downloads\\flamapp_rnd_assignment_structure\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\bhavy\\Downloads\\flamapp_rnd_assignment_structure\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

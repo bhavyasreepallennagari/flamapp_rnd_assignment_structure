@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\bhavy\Downloads\flamapp_rnd_assignment_structure\app\.cxx\Debug\4y536z67\x86'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library C:\Users\bhavy\Downloads\flamapp_rnd_assignment_structure\app\build\intermediates\cxx\Debug\4y536z67\obj\x86\libnative-lib.so

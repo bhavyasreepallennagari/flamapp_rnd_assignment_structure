@@ -1,0 +1,5 @@
+# ninja log v5
+0	52	0	clean	4b7977cb79185eb0
+1	13	0	clean	4b7977cb79185eb0
+0	950	7848154013027455	CMakeFiles/native-lib.dir/native-lib.cpp.o	9c9b65e7a9f53da6
+965	1273	7848154016275623	C:/Users/bhavy/Downloads/flamapp_rnd_assignment_structure/app/build/intermediates/cxx/Debug/4y536z67/obj/x86/libnative-lib.so	94cc75527ad397ae

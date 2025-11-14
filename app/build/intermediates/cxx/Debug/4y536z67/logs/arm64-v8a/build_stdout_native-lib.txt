@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\bhavy\Downloads\flamapp_rnd_assignment_structure\app\.cxx\Debug\4y536z67\arm64-v8a'
+ninja: no work to do.

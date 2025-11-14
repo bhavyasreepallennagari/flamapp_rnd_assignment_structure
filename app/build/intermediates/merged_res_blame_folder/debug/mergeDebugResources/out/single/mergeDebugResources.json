@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.flamapp-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.example.flamapp-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhavy\\.gradle\\daemon\\9.0-milestone-1\\com.example.flamapp-debug-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bhavy\\.gradle\\daemon\\9.0-milestone-1\\com.example.flamapp-main-30:\\layout\\activity_main.xml"
+    }
+]

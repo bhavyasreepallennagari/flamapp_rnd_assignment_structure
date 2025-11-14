@@ -1,0 +1,7 @@
+# ninja log v5
+2	808	7848154018364166	build.ninja	28ced5fa1582a99b
+301	911	7847504875526373	C:/Users/bhavy/Downloads/flamapp_rnd_assignment_structure/app/build/intermediates/cxx/Debug/4y536z67/obj/x86_64/libnative-lib.so	44cd7a80c24e3228
+1	18	0	clean	4b7977cb79185eb0
+8	300	7847504872546264	CMakeFiles/native-lib.dir/native-lib.cpp.o	c6a03afb50b53be
+1	978	7848154029866750	CMakeFiles/native-lib.dir/native-lib.cpp.o	a68d212d79de9895
+988	1300	7848154033103909	C:/Users/bhavy/Downloads/flamapp_rnd_assignment_structure/app/build/intermediates/cxx/Debug/4y536z67/obj/x86_64/libnative-lib.so	44cd7a80c24e3228
