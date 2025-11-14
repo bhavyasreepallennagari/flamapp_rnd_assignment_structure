@@ -1,0 +1,1 @@
+# flamapp_rnd_assignment_structure
